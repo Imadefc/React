@@ -4,8 +4,6 @@ import { Hello } from "./Hello";
     return(
         <div>
             <Hello/>
-            <Hello></Hello>
-            <Hello></Hello>
         </div>
     )
     //El componente se renderizaa todas las veces que tu lo pongas
